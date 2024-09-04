@@ -54,4 +54,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries, feedback, or collaboration opportunities, please contact me at [your.email@example.com](mailto:tikarammahato377.email@example.com).
+For any inquiries, feedback, or collaboration opportunities, please contact me at [tikarammahato377.email@example.com](mailto:tikarammahato377.email@example.com).
